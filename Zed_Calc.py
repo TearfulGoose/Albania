@@ -7,6 +7,7 @@ def typing(TestV,timeS):
     print(TestV[i],end="",flush=True)
     time.sleep(timeS)
 
+print("No")
 #Variables saved outside to be reused.
 
 numb1 = 0
